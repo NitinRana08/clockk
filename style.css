@@ -1,6 +1,8 @@
 .container{
     background-color: rgb(54, 128, 192);
     padding: 38px;
+    color: white;
+    font-family: fallback-font, generic-family;
 
 }
 .jumbotron{
